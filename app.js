@@ -15,7 +15,7 @@ b.addEventListener('click',(e)=>{
 
 
 function dlt(button) {
-    var row = button.parentNodeparentNode;
+    var row = button.parentNode.parentNode;
     row.parentNode.removeChild(row);
 }
 
