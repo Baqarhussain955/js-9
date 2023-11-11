@@ -1,0 +1,10 @@
+img {
+    width: 70px;
+    height: 120px;
+}
+
+.pics{
+    display: flex;
+    justify-content: space-evenly;
+}
+
